@@ -21,7 +21,8 @@
         <activity
             android:name="id.sch.smktelkom_mlg.learn.DetailActivity"
             android:label="@string/title_activity_detail"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="id.sch.smktelkom_mlg.learn.InputActivity"></activity>
     </application>
 
 </manifest>
